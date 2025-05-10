@@ -1,6 +1,7 @@
 # CS410HW3
 
 **Problem 1**
+
 When comparing model performance with and without stopwords, the version excluding stopwords resulted in a slightly lower and more consistent RMSE distribution. The histogram showed a sharper concentration around lower RMSE values, which suggests better prediction accuracy. Therefore, set the flag to FALSE. 
 
 **Problem 2**
@@ -33,9 +34,9 @@ Training:
 
 1             1.00      0.67      0.80        3
 
-   accuracy                            0.83         6
-   macro avg.      0.88      0.83      0.83         6
-weighted avg.      0.88      0.83      0.83         6
+accuracy                            0.83         6
+macro avg.      0.88      0.83      0.83         6
+weighted avg.   0.88      0.83      0.83         6
 
 Test:
               precision    recall  f1-score   support
@@ -44,6 +45,6 @@ Test:
 
 1             0.33         0.50    0.40       2
 
-   accuracy                            0.25         4
-   macro avg.      0.17      0.25      0.20         4
-weighted avg.      0.17      0.25      0.20         4
+accuracy                            0.25         4
+macro avg.      0.17      0.25      0.20         4
+weighted avg.   0.17      0.25      0.20         4
