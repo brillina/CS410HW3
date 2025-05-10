@@ -20,12 +20,17 @@ This result supports the idea that autoregressive models like GPT-2 are better s
 <img width="798" alt="Screenshot 2025-05-05 at 7 45 46 PM" src="https://github.com/user-attachments/assets/23968cad-9758-4065-8c13-b9192335b227" />
 
 Top 5 terms:
+
 new: 0.0067
+
 first: 0.0062
+
 last: 0.0053
+
 presidential: 0.0047
+
 one: 0.0047
 
 **Problem 4**
 
-<img width="401" alt="Screenshot 2025-05-10 at 6 52 19 PM" src="https://github.com/user-attachments/assets/f86af7b3-53fe-42a7-bfd6-72919fdbf626" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bfba63e3-2710-4ca7-b043-5b6d51d52cd7" />
