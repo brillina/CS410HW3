@@ -7,6 +7,7 @@ When comparing model performance with and without stopwords, the version excludi
 **Problem 2**
 
 BERT Accuracy: 0.004868421052631579
+
 GPT-2 Accuracy: 0.23763157894736842
 
 GPT-2 outperformed BERT on next-word prediction, with an accuracy of about 23.76%.
