@@ -35,3 +35,5 @@ one: 0.0047
 **Problem 4**
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/bfba63e3-2710-4ca7-b043-5b6d51d52cd7" />
+
+The report reveals a noticeable difference between training and testing performance, suggesting potential overfitting. While the model achieves 83% accuracy on the training set, its accuracy drops to just 25% on the test set. This implies that the model has memorized the training data but fails to generalize to the unseen examples. Also, the results show that class 0 is completely misclassified (precision and recall of 0.00), indicating the model's bias toward predicting class 1. This issue is supported by the smaller size of the dataset, only 10 documents, which limits the model's ability to learn robust decision boundaries. Overall, the results suggest that the current feature set, comprising PageRank, hub scores, and TF-IDF values, may not be sufficient for effective classification, and the model would benefit from more data or enhanced features.
